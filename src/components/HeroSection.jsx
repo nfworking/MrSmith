@@ -1,4 +1,4 @@
-import video from "../assets/heronew.mp4";
+import video from "../assets/default.mp4";
 import hero from "../assets/thumbnail.png";
 import { motion } from "framer-motion";
 
