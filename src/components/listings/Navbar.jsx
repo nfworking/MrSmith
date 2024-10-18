@@ -25,8 +25,8 @@ const Navbar = () => {
     setIsMobileMenuOpen(false);
   };
   return (
-    <nav className="fixed top-20 z-50 flex w-full flex-col items-center justify-center fixed ">
-      <div className="flex w-full items-center justify-between overflow-y-hidden p-4 backdrop-blur-lg lg:m-2 lg:w-[50rem] lg:rounded-full lg:shadow-lg">
+    <nav className="top-20 z-50 flex w-full flex-col items-center justify-center fixed ">
+      <div className="flex w-full items-center justify-between overflow-y-hidden p-5 bg-black lg:m-2 lg:w-[50rem] lg:rounded-full lg:shadow-lg">
        <h1>SHORLINE</h1>
         <div className="hidden space-x-6 lg:flex">
             {LINKS_SINGLE.map((link, index) => (
