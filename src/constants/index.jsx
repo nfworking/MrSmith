@@ -91,33 +91,45 @@ export const ABOUT_CONTENT = {
 export const EXPERIENCES = [
   {
     yearRange: "2023 — Now",
-    title: "Senior Frontend Engineer at TechCorp",
-    location: "Paris, France",
+    title: "Number 1 Real Estate Company  ",
+    location: "Australia",
     description: [
-      "Leading the development of scalable frontend architecture for enterprise-level applications.",
-      "Collaborating with cross-functional teams to deliver high-quality, user-centric solutions.",
-      "Driving innovation through continuous improvements in performance and UI/UX design.",
+      "Market Leader: Now Australia's top real estate company in sales and client satisfaction.",
+      "Wide Reach: Largest nationwide network for residential, commercial, and industrial properties.",
+      "Innovation: Focused on tech-driven growth and customer excellence.",
     ],
   },
   {
     yearRange: "2021 — 2023",
-    title: "Frontend Engineer at Startup Inc.",
-    location: "Remote",
+    title: "Shoreline Homes is formally established",
+    location: "Sydeny, Australia",
     description: [
-      "Built dynamic, responsive, and accessible web applications using React, Next.js, and Tailwind CSS.",
-      "Spearheaded frontend optimization efforts, resulting in a 40% performance boost.",
-      "Mentored junior developers and led internal frontend workshops.",
+      "Comapany formally fored with the CEO becomming the most famous",
+      "Earnings for the Comapany exceed $100,000,000",
+      "Christina Parker becomes Deputy CEO of Shoreline Homes",
     ],
   },
   {
-    yearRange: "2018 — 2021",
-    title: "Frontend Developer at Creative Solutions",
-    location: "London, UK",
+    yearRange: "2014 — 2021",
+    title: "Comapany moves to global market",
+    location: "New York, USA",
     description: [
-      "Developed and maintained user interfaces for high-traffic websites.",
-      "Worked closely with designers to implement pixel-perfect designs.",
-      "Optimized websites for SEO and performance, resulting in a 30% increase in traffic.",
+      "A 10 Sotry High rise is developed in New York",
+      "Designs are established and are approved by Local Builder",
+      "Company grows to a more open market",
     ],
+  },
+  {
+    yearRange: "2014",
+    title: "Comapany was founded by Mr Smith",
+    location: "Queensland, Australia",
+    description: [
+      "Peter Smith Awarded Best Home in Global Competition",
+      "Plans for luxry homes was designed to meet current expectations",
+      "CEO Mr Smith Created the foundation of the company",
+    ],
+   
+
   },
 ];
 

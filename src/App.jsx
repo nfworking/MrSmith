@@ -6,6 +6,7 @@ import Mission from "./components/Mission"
 import Testimonal from "./components/Testimonal"
 import BlurBackground from "./components/BlurBackground"
 import Projects from "./components/Projects"
+import Experience from "./components/Experience"
 
 
 
@@ -24,6 +25,7 @@ const App = () => {
       <About />
       <Mission />
 <Projects/>
+<Experience/>
       <Review />
       <Testimonal />
       <ContactSection />

@@ -66,7 +66,7 @@ const ProductPage = () => {
   };
 
   return (
-    <div className="mt-24 bg-gray-900 text-gray-100 py-12 px-4 sm:px-6 lg:px-8">
+    <div className="mt-24 bg-black text-gray-100 py-12 px-4 sm:px-6 lg:px-8 transition-all duration-500">
       <div className="max-w-7xl mx-auto">
         <div className="lg:grid lg:grid-cols-2 lg:gap-x-8 lg:items-start">
           {/* Product Image Slider */}
